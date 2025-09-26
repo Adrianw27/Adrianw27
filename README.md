@@ -13,7 +13,7 @@ Always curious and eager to learn, I’m constantly building, experimenting, and
 [![Frameworks & Libraries](https://skillicons.dev/icons?i=dotnet,fastapi,nextjs,react,flask,jest)](https://skillicons.dev)
 ### Tools & Technologies
 ---
-[![Tools & Technologies](https://skillicons.dev/icons?i=azure,bitbucket,cmake,eclipse,git,github,gitlab,ai,maven,npm,postman,powershell,raspberrypi,mysql)](https://skillicons.dev)
+[![Tools & Technologies](https://skillicons.dev/icons?i=azure,bitbucket,cmake,git,github,gitlab,ai,maven,npm,postman,powershell,raspberrypi,mysql)](https://skillicons.dev)
 ### Dev Environment
 ---
 [![Environment](https://skillicons.dev/icons?i=linux,eclipse,ubuntu,windows,neovim,vim,visualstudio,vscode)](https://skillicons.dev)

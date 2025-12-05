@@ -1,10 +1,3 @@
-# 🎮 Play Tic-Tac-Toe
-
-Want to play a quick game?  
-[👉 Click here to play Tic-Tac-Toe!](./game/index.html)
-
----
-
 # Hey there!
 I'm Adrian, a third-year software engineering student from Canada.
 ## About Me
